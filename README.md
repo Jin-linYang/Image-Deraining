@@ -39,6 +39,9 @@ Unpaired Deep Image Deraining Using Dual Contrastive Learning （2022 CVPR）
 SAPNet: Segmentation-Aware Progressive Network for Perceptual Contrastive Deraining （2022 CVPRW）
 
 ## Video Deraining
+### Supervised Deraining
+Rethinking Video Rain Streak Removal:A New Synthesis Model and a Deraining Network with Video Rain Prior (ECCV2022) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19800-7_33) [[code]](https://github.com/wangshauitj/RDD-Net)
+
 ### Semi-supervised Deraining
 Semi-Supervised Video Deraining with Dynamical Rain Generator (2021 CVPR) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Semi-Supervised_Video_Deraining_With_Dynamical_Rain_Generator_CVPR_2021_paper.pdf) [[code]](https://github.com/zsyOAOA/S2VD)
 
