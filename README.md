@@ -38,7 +38,7 @@ Unpaired Deep Image Deraining Using Dual Contrastive Learning （2022 CVPR）
 
 SAPNet: Segmentation-Aware Progressive Network for Perceptual Contrastive Deraining （2022 CVPRW）
 
-## Metrics
+## Video Deraining
 ### Semi-supervised Deraining
 Semi-Supervised Video Deraining with Dynamical Rain Generator (2021 CVPR)
 
