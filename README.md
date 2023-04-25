@@ -19,7 +19,7 @@ Spatial Attentive Single-Image Deraining With a High Quality Real Rain Dataset �
 
 Depth-Attentional Features for Single-Image Rain Removal （2019 CVPR）
 
-Successive Graph Convolutional Network for Image De-raining （2021）
+Rain Streak Removal via Dual Graph Convolutional Network （2021 AAAI） [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16224) [[code]]()
 
 Single Image Deraining Network with Rain Embedding Consistency and Layered LSTM （2022 WACV）
 
