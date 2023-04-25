@@ -40,6 +40,8 @@ SAPNet: Segmentation-Aware Progressive Network for Perceptual Contrastive Derain
 
 ## Video Deraining
 ### Supervised Deraining
+Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework  (CVPR2018) [[paper]](https://arxiv.org/pdf/1803.10433.pdf) [[code]]()
+
 Rethinking Video Rain Streak Removal:A New Synthesis Model and a Deraining Network with Video Rain Prior (ECCV2022) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19800-7_33) [[code]](https://github.com/wangshauitj/RDD-Net)
 
 ### Semi-supervised Deraining
