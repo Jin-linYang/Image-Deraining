@@ -37,6 +37,11 @@ Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity （2022
 Unpaired Deep Image Deraining Using Dual Contrastive Learning （2022 CVPR）
 
 SAPNet: Segmentation-Aware Progressive Network for Perceptual Contrastive Deraining （2022 CVPRW）
+
+## Metrics
+### Semi-supervised Deraining
+Semi-Supervised Video Deraining with Dynamical Rain Generator (2021 CVPR)
+
 ## Metrics
 ### Full-Reference
 Scope of validity of PSNR in image/video quality assessment (PSNR)
