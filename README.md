@@ -40,7 +40,7 @@ SAPNet: Segmentation-Aware Progressive Network for Perceptual Contrastive Derain
 
 ## Video Deraining
 ### Semi-supervised Deraining
-Semi-Supervised Video Deraining with Dynamical Rain Generator (2021 CVPR)
+Semi-Supervised Video Deraining with Dynamical Rain Generator (2021 CVPR) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Semi-Supervised_Video_Deraining_With_Dynamical_Rain_Generator_CVPR_2021_paper.pdf) [[code]](https://github.com/zsyOAOA/S2VD)
 
 ## Metrics
 ### Full-Reference
