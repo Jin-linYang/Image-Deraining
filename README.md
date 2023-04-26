@@ -6,9 +6,10 @@ Single Image Deraining: A Comprehensive Benchmark Analysis (2019 CVPR) [[paper]]
 Single Image Deraining: From Model-Based to Data-Driven and Beyond (2021 TPAMI) [[paper]](https://ieeexplore.ieee.org/document/9096521)
 
 A Survey on Rain Removal from Video and Single Image (2019 arxiv 2022 SCIS) [[paper]](https://arxiv.org/abs/1909.08326) [[code]](https://github.com/hongwang01/Video-and-Single-Image-Deraining)
+
 ## Single Image Deraining
 ### Supervised Deraining
-Removing Rain from Single Images via a Deep Detail Network （2017 CVPR）[[paper]](https://ieeexplore.ieee.org/document/8099669) [[code]]()
+Removing Rain from Single Images via a Deep Detail Network （2017 CVPR）[[paper]](https://ieeexplore.ieee.org/document/8099669) [[code]](https://github.com/XMU-smartdsp/Removing_Rain)
 
 Density-Aware Single Image De-raining Using a Multi-stream Dense Network （2018 CVPR）
 
@@ -20,10 +21,13 @@ Spatial Attentive Single-Image Deraining With a High Quality Real Rain Dataset �
 
 Depth-Attentional Features for Single-Image Rain Removal （2019 CVPR）
 
+Uncertainty Guided Multi-Scale Residual Learning-using a Cycle Spinning CNN for Single Image De-Raining （2019 CVPR） [[paper]](https://arxiv.org/pdf/1906.11129.pdf) [[code]](https://github.com/rajeevyasarla/UMRL--using-Cycle-Spinning)
+
 Rain Streak Removal via Dual Graph Convolutional Network （2021 AAAI） [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16224) [[code]]()
 
 Single Image Deraining Network with Rain Embedding Consistency and Layered LSTM （2022 WACV） [[paper]](https://ieeexplore.ieee.org/document/9706758) [[code]](https://github.com/Yizhou-Li-CV/ECNet)
 
+Hybrid CNN-Transformer Feature Fusion for Single Image Deraining （2023 AAAI） [[code]](https://github.com/cschenxiang/HCT-FFN)
 ### Semi-supervised Deraining
 Semi-Supervised Transfer Learning for Image Rain Removal （2019 CVPR）
 
