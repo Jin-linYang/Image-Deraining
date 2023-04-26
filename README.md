@@ -35,11 +35,11 @@ Syn2Real Transfer Learning for Image Deraining Using Gaussian Processes （2020 
 
 
 ### Unsupervised Deraining
-DerainCycleGAN: Rain Attentive CycleGAN for Single Image Deraining and Rainmaking （2019 TIP）
+DerainCycleGAN: Rain Attentive CycleGAN for Single Image Deraining and Rainmaking （2019 TIP）[[paper]](https://ieeexplore.ieee.org/document/9420312) [[code]](https://github.com/OaDsis/DerainCycleGAN)
 
-Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity （2022 CVPR）
+Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity （2022 CVPR）[[paper]](https://ieeexplore.ieee.org/document/9880124) [[code]](https://github.com/yunguo224/NLCL)
 
-Unpaired Deep Image Deraining Using Dual Contrastive Learning （2022 CVPR）
+Unpaired Deep Image Deraining Using Dual Contrastive Learning （2022 CVPR） [[paper]](https://ieeexplore.ieee.org/document/9880261) [[code]](https://github.com/cschenxiang/DCD-GAN)
 
 SAPNet: Segmentation-Aware Progressive Network for Perceptual Contrastive Deraining （2022 CVPRW）
 
