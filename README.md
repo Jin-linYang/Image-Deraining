@@ -7,7 +7,7 @@ Single Image Deraining: From Model-Based to Data-Driven and Beyond (2021 TPAMI) 
 
 ## Single Image Deraining
 ### Supervised Deraining
-Removing Rain from Single Images via a Deep Detail Network （2017 CVPR）
+Removing Rain from Single Images via a Deep Detail Network （2017 CVPR）[[paper]](https://ieeexplore.ieee.org/document/8099669) [[code]]()
 
 Density-Aware Single Image De-raining Using a Multi-stream Dense Network （2018 CVPR）
 
@@ -21,7 +21,7 @@ Depth-Attentional Features for Single-Image Rain Removal （2019 CVPR）
 
 Rain Streak Removal via Dual Graph Convolutional Network （2021 AAAI） [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16224) [[code]]()
 
-Single Image Deraining Network with Rain Embedding Consistency and Layered LSTM （2022 WACV）
+Single Image Deraining Network with Rain Embedding Consistency and Layered LSTM （2022 WACV） [[paper]](https://ieeexplore.ieee.org/document/9706758) [[code]](https://github.com/Yizhou-Li-CV/ECNet)
 
 ### Semi-supervised Deraining
 Semi-Supervised Transfer Learning for Image Rain Removal （2019 CVPR）
